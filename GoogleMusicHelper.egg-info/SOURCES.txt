@@ -1,0 +1,5 @@
+setup.py
+GoogleMusicHelper.egg-info/PKG-INFO
+GoogleMusicHelper.egg-info/SOURCES.txt
+GoogleMusicHelper.egg-info/dependency_links.txt
+GoogleMusicHelper.egg-info/top_level.txt
